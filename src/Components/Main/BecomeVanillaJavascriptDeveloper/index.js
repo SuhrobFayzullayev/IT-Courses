@@ -1,0 +1,3 @@
+import BecomeVanillaJavascriptDeveloper from "./BecomeVanillaJavascriptDeveloper";
+
+export default BecomeVanillaJavascriptDeveloper 
