@@ -59,6 +59,7 @@ export const GlobalStyle = createGlobalStyle`
     font-family: "Inter";
     margin-top: 13px !important;
     padding: 0;
+    
     &:hover{
       color: white;
     }
