@@ -24,8 +24,8 @@ export default function Buttons() {
 
   return (
     <Span>
-      <Link to="/sign-in" className="btn btn-light me-1">
-        <p>Sign In</p>
+      <Link to="/sign-in" className="btn btn-light text-dark me-1">
+        <p className="text-dark">Sign In</p>
       </Link>{" "}
       <Link to="sign-up" className="btn btn-primary">
         <p>Sign Up</p>
