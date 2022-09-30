@@ -45,7 +45,7 @@ const data = [
 // Pages function component
 export default function Pages() {
   return (
-    <NavDropdown title="Pages" id="basic-nav-dropdown">
+    <NavDropdown title="Pages" className="text-light" id="basic-nav-dropdown">
       {data.map((v, i) => (
         <Item className="dropdown-item" key={i + "pages"} href="#action/3.1">
           {v.text}

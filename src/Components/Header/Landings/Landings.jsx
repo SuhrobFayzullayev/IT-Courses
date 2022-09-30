@@ -27,6 +27,7 @@ export default function Landings() {
     <NavDropdown
       title="Landings"
       id="basic-nav-dropdown"
+      className="text-light"
     >
       <Item className="dropdown-item disabled text-muted" href="#action/3.1">
         LANDINGS

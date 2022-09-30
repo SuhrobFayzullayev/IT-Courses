@@ -57,7 +57,7 @@ export default function Accounts() {
     <NavDropdown
       title="Accounts"
       id="basic-nav-dropdown"
-      className="text-white"
+      className="text-light"
     >
       <Item className="dropdown-item disabled text-muted" href="#action/3.1">
         ACCOUNTS

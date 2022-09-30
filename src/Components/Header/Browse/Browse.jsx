@@ -39,7 +39,7 @@ const data = [
 // Browse function component
 export default function Browse() {
   return (
-    <NavDropdown title="Browse" id="basic-nav-dropdown">
+    <NavDropdown title="Browse" className="text-light" id="basic-nav-dropdown">
       {data.map((v, i) => (
         <Item className="dropdown-item" key={i + "browse"} href="#action/3.1">
           {v.text}

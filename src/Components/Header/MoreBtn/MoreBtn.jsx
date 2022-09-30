@@ -66,7 +66,7 @@ export default function MoreBtn() {
     <NavDropdown
       title={<FiMoreHorizontal />}
       id="basic-nav-dropdown"
-      className="more-btn"
+      className="more-btn text-light"
     >
       {data.map((v, i) => (
         <Item
