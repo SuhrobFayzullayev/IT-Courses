@@ -6,7 +6,6 @@ export const GlobalStyle = createGlobalStyle`
   @import url('https://fonts.googleapis.com/css2?family=Inter+Tight@&display=swap');
   h1, h2, h3, h4, h5, h6, p, span, .nav-link, .dislay-1, .display-2, .display-3, .display-4, .display-5, .display-6, .fs-1, .fs-2, .fs-3, .fs-4, .fs-5, .fs-6 {
     font-family: 'Inter Tight', sans-serif !important ;
-    color: white !important;
   } 
 
   .bg-dark{
